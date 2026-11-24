@@ -34,3 +34,8 @@
 ---
 
 如果您有任何问题或建议，欢迎[提出 issue](https://github.com/opensource-publish/opensource-publish/issues)。
+
+
+---
+
+[Subscribe to our RSS Feed](https://AmemiyaYeXue.github.io/opensource-publish/feed.xml)
