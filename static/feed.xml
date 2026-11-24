@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+  <id>https://AmemiyaYeXue.github.io/opensource-publish</id>
+  <title>性别的枷锁</title>
+  <updated>2026-11-24T17:47:02.852769+00:00</updated>
+  <author>
+    <name>霜邺雪</name>
+  </author>
+  <link href="https://AmemiyaYeXue.github.io/opensource-publish" rel="alternate"/>
+  <link href="https://AmemiyaYeXue.github.io/opensource-publish/feed.xml" rel="self"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>The latest chapters of 性别的枷锁.</subtitle>
+</feed>
